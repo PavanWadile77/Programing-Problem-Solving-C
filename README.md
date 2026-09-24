@@ -1,24 +1,47 @@
-# PPS (Programming Problem Solving) – C Language
+# Programming Problem Solving — C
 
-## 📌 About
+A practical collection of **C programming programs** created while learning Programming Problem Solving (PPS).
 
-This repository contains C programs that I have practiced during my **Programming Problem Solving (PPS)** practical sessions.
+## About
 
-## 🎯 Purpose
+This repository keeps lab work, practice programs, and core C programming exercises in one place. It is useful for revision, practical submissions, and building problem-solving fundamentals.
 
-* To store all practical programs
-* To revise concepts of C programming
-* To keep record of lab work
+## Topics
 
-## 💻 Programs
+- Input and output
+- Operators and expressions
+- Conditional statements
+- Loops
+- Arrays and strings
+- Functions
+- Pointers
+- Basic problem-solving exercises
 
-The programs included here are based on topics covered in practical sessions such as:
+## Getting Started
 
-* Basic programs
-* Conditional statements
-* Loops
-* Arrays
-* Functions
-* Pointers (basic)
+### Compile with GCC
 
-.
+```bash
+gcc filename.c -o program
+./program
+```
+
+On Windows:
+
+```bash
+gcc filename.c -o program.exe
+program.exe
+```
+
+## Repository
+
+**GitHub:** https://github.com/PavanWadile77/Programing-Problem-Solving-C
+
+## Author
+
+**Pavan Wadile**  
+B.Tech Information Technology Student
+
+---
+
+This repository is maintained as a learning and practical-work collection.
