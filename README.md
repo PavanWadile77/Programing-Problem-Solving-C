@@ -1,47 +1,35 @@
-# Programming Problem Solving — C
+# Programming Problem Solving with C 💻
 
-A practical collection of **C programming programs** created while learning Programming Problem Solving (PPS).
+A structured collection of **C programming fundamentals, laboratory programs, and problem-solving exercises** developed while learning Programming for Problem Solving.
 
-## About
+## 🎯 Purpose
+This repository documents practical C programming work and builds a strong foundation in logic, algorithms, and computational thinking.
 
-This repository keeps lab work, practice programs, and core C programming exercises in one place. It is useful for revision, practical submissions, and building problem-solving fundamentals.
-
-## Topics
-
-- Input and output
-- Operators and expressions
+## 📚 Topics Covered
+- Input / Output and operators
 - Conditional statements
-- Loops
+- Loops and nested loops
 - Arrays and strings
-- Functions
+- Functions and recursion
 - Pointers
-- Basic problem-solving exercises
+- Basic algorithms and problem-solving
 
-## Getting Started
-
-### Compile with GCC
-
+## ▶️ Run a Program
 ```bash
 gcc filename.c -o program
 ./program
 ```
 
-On Windows:
-
+**Windows**
 ```bash
 gcc filename.c -o program.exe
 program.exe
 ```
 
-## Repository
+## 🔗 Project
+[GitHub Repository](https://github.com/PavanWadile77/Programing-Problem-Solving-C)
 
-**GitHub:** https://github.com/PavanWadile77/Programing-Problem-Solving-C
+## 👨‍💻 Author
+**Pavan Wadile** · B.Tech Information Technology Student
 
-## Author
-
-**Pavan Wadile**  
-B.Tech Information Technology Student
-
----
-
-This repository is maintained as a learning and practical-work collection.
+> Built as a practical learning repository for strengthening programming fundamentals.
