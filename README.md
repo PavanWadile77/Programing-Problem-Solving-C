@@ -1,5 +1,14 @@
 # Programming Problem Solving with C 💻
 
+<div align="center">
+
+**C Programming • Problem Solving**
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+
+</div>
+
+
 A structured collection of **C programming fundamentals, laboratory programs, and problem-solving exercises** developed while learning Programming for Problem Solving.
 
 ## 🎯 Purpose
@@ -33,3 +42,18 @@ program.exe
 **Pavan Wadile** · B.Tech Information Technology Student
 
 > Built as a practical learning repository for strengthening programming fundamentals.
+
+
+## 🔧 Engineering Focus
+
+Programming fundamentals, algorithms, logic building and laboratory practice.
+
+---
+
+<div align="center">
+
+**Pavan Wadile · B.Tech Information Technology**
+
+[GitHub](https://github.com/PavanWadile77)
+
+</div>
