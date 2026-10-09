@@ -2,6 +2,13 @@
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=PavanWadile77&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" alt="Profile views" />
+
+</div>
+
+
+<div align="center">
+
 **C Programming • Problem Solving**
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
